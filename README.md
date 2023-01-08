@@ -1,2 +1,3 @@
 # QRCodeScanner21C4
-aplikasi QR Code Scanner 21 C4 - Rizky Firdaus
+aplikasi QR Code Scanner - Rizky Firdaus - 312110437 - TI.21.C4
+
