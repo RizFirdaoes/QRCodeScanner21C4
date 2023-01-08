@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonScan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="QR Code Scaner"
@@ -29,7 +29,7 @@
             android:id="@+id/textViewNama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="..."
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -42,7 +42,7 @@
             android:id="@+id/textViewKelas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="..."
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -54,7 +54,7 @@
             android:id="@+id/textViewNIM"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="..."
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>/>
 
     </LinearLayout>
